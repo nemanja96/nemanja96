@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Nemanja Radivojevic
-- 💻 Junior Front-end Developer
+- 💻 Front-end Developer
 - 🌱 Currently learning React JS
-- 📫 Contact me on kontakt@nemanjaradivojevic.rs 
+- 📫 Contact me on nemanjaradivojevic1603@gmail.com
